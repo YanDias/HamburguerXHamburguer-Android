@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hamburguer x Hamburguer</string>
+    <string name="Cardapio">Cardapio</string>
+    <string name="Adm_btn">Cadastros</string>
+    <string name="Cadastro">Cadastro</string>
+    <string name="Editar">Editar</string>
+    <string name="Excluir">Excluir</string>
+    <string name="Tipo">Tipo</string>
+    <string name="Nome">Nome do Lanche</string>
+    <string name="Descricao">Ingredientes e Complementos</string>
+    <string name="Preço">Preço</string>
+    <string name="Quantidade">Quantidade</string>
+    <string name="Desc">\n Descrição \n e \n Ingredientes</string>
+
+</resources>
