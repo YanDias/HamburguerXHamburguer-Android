@@ -4,5 +4,5 @@ Esse software tem como objetivo o gerenciamento do cardapio de uma casa de lanch
 
 Funções implementadas
 
--cadastro do lanhce
+-Cadastro de lanhches
 -Visualização do Cardapio
